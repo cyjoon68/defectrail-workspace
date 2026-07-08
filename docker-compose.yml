@@ -1,0 +1,5 @@
+services:
+  defectrail-fe:
+    build: ./defectrail-fe
+  defectrail-be:
+    build: ./defectrail-be

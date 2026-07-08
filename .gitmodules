@@ -1,0 +1,8 @@
+[submodule "defectrail-fe"]
+	path = defectrail-fe
+	url = https://github.com/defectrail-labs/defectrail-fe.git
+	branch = develop
+[submodule "defectrail-be"]
+	path = defectrail-be
+	url = https://github.com/defectrail-labs/defectrail-be.git
+	branch = develop

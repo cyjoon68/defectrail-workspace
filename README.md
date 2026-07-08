@@ -1,6 +1,6 @@
 # DefectRail Workspace
 
-DefectRail은 Inspection AI 불량 데이터를 lot 단위로 분석하고 재검수 큐로 연결하는 제조 품질 포트폴리오 프로젝트입니다.
+DefectRail은 Inspection AI 불량 데이터를 lot 단위로 분석하고 재검수 큐로 연결하는 제조 품질 서비스 프로젝트입니다.
 
 ## 저장소 구조
 
@@ -24,6 +24,6 @@ FE/BE는 Git submodule로 연결되어 있습니다.
 git clone --recurse-submodules https://github.com/defectrail-labs/defectrail-workspace.git
 ```
 
-## 포트폴리오 포인트
+## 프로젝트 포인트
 
 Next.js 기반 품질 분석 화면과 Python async REST API를 실제 서비스 repo 구조처럼 분리했습니다.
